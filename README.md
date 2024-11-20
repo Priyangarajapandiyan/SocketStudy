@@ -84,7 +84,9 @@ while True:
 ## CLIENT:
 ![328390143-7e175bb5-c103-47aa-9d91-03fe5c560bb9](https://github.com/user-attachments/assets/740231d1-8ff7-4ee5-a321-9b6daad8801e)
 ## SERVER:
-![Uploading 328390161-d8be94c9-7858-46b8-9651-b07213911178.png…]()
+![328390161-d8be94c9-7858-46b8-9651-b07213911178](https://github.com/user-attachments/assets/684ce237-e789-4d5c-a94d-e0eb4dd15494)
+
+
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
